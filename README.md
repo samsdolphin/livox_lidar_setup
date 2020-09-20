@@ -14,7 +14,7 @@ You need to disenable Wi-Fi first and edit the corresponding wired connection.
 
 ![](imgs/net_con.png)
 
-Change the `IPv4 Settings` as shown below and save.
+Change the `IPv4 Settings` as shown below and save. Please notice the `192.168.1.80` is the static ip address of your computer, which has to be different with the LiDAR!
 
 ![](imgs/ip4.png)
 
